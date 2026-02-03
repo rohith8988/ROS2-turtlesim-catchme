@@ -3,6 +3,9 @@
 A fun ROS 2 mini-project built on `turtlesim` where `turtle1` automatically chases randomly spawned turtles, “catches” them, kills them using the `/kill` service, then spawns the next target and repeats.
 
 This project is implemented as **three ROS 2 nodes** (Python, `rclpy`) plus the standard `turtlesim_node`.
+## Demo
+
+![Turtlesim Catch Demo](Assets/turtlesim.gif)
 
 ---
 
