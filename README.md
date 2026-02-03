@@ -66,11 +66,11 @@ This project is implemented as **three ROS 2 nodes** (Python, `rclpy`) plus the 
 
 ---
 
-## ROS Flow
 ## ROS Graph
 
 ![ROS Graph](Assets/rosgraph.png)
-
+---
+## ROS Flow
 
 `turtlesim_node` provides:
 - `/spawn` service
